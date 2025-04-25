@@ -9,7 +9,7 @@
   
  - 🌎 Moro em Goiânia, Goiás, Brasil
  - 📚 Aprendendo mais sobre o Desenvolvimento Software, Arquitetura de Microsserviços e entre outros.
- - 👨🏻‍💻 Desenvolvo front-end Angular 
+ - 👨🏻‍💻 Desenvolvo front-end Vue.js, React e Angular 
   
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
